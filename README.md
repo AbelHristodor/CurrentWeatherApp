@@ -6,3 +6,5 @@ It's using the OpenWeather API and it has been made in Python 3.6 using the foll
 - requests
 - json
 
+
+For learning purposes.
